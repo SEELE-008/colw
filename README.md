@@ -93,7 +93,7 @@ flowchart LR
 | Stash | [https://raw.githubusercontent.com/SEELE-008/colw/refs/heads/main/modules/wloc.stoverride](https://raw.githubusercontent.com/SEELE-008/colw/refs/heads/main/modules/wloc.stoverride) |
 | Shadowrocket | [https://raw.githubusercontent.com/SEELE-008/colw/refs/heads/main/modules/wloc.module](https://raw.githubusercontent.com/SEELE-008/colw/refs/heads/main/modules/wloc.module) |
 
-选点页面：尚未配置公共实例，请按下方说明自行部署。
+选点页面：[https://wloc-spoofer.gjd1602.workers.dev/](https://wloc-spoofer.gjd1602.workers.dev/)。
 
 [浏览源码](https://github.com/SEELE-008/colw) · [部署到 Cloudflare Workers](https://deploy.workers.cloudflare.com/?url=https://github.com/SEELE-008/colw/tree/main/worker)
 <!-- subscriptions:end -->
